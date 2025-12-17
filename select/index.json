@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Daydream cafe",
+  "base_artist": "Petit Rabbit's",
+  "createdAt": "2025-12-17T05:44:51.064931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/01_Daydream_café_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "Happy Around!",
+      "has_synced": false,
+      "path": "select/02_Daydream_café_Happy_Around!.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daydream cafe",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/03_Daydream_cafe_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daydream Cafe~チマメ隊Ver.~",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/04_Daydream_Cafe~チマメ隊Ver.~_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daydream café 〜チマメ隊Ver.〜",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/05_Daydream_café_〜チマメ隊Ver.〜_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daydream Cafe (feat. Shion Lee)",
+      "artist": "Kirara Magic Radio",
+      "has_synced": true,
+      "path": "select/06_Daydream_Cafe_(feat._Shion_Lee)_Kirara_Magic_Radio.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daydream Café - チマメ隊Ver.",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/07_Daydream_Café_-_チマメ隊Ver._チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daydream cafe",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/08_Daydream_cafe_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daydream cafe(作詞賞)",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/09_Daydream_cafe(作詞賞)_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "Petit Rabbit\\'s",
+      "has_synced": true,
+      "path": "select/10_Daydream_café_Petit_Rabbit_'s.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/11_Daydream_café_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daydream Cafe",
+      "artist": "Kirara Magic Radio",
+      "has_synced": true,
+      "path": "select/12_Daydream_Cafe_Kirara_Magic_Radio.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daydream Café ～チマメ隊Ver.～",
+      "artist": "チマメ隊",
+      "has_synced": true,
+      "path": "select/13_Daydream_Café_~チマメ隊Ver.~_チマメ隊.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "成宮すず (CV:相川奏多) & 兵藤雫 (CV:首藤志奈) & 赤崎こころ (CV:豊崎愛生) & ココア (CV:佐倉綾音) & チノ (CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/14_Daydream_café_成宮すず_(CV_相川奏多)_&_兵藤雫_(CV_首藤志奈)_&_赤崎こころ_(CV_豊崎愛生)_&_ココア_(CV_佐倉綾音)_&_チノ_(CV_水瀬いのり).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daydream cafe",
+      "artist": "Petit　Rabbit＇s",
+      "has_synced": true,
+      "path": "select/15_Daydream_cafe_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Daydream café",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/16_Daydream_café_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daydream cafe",
+      "artist": "Petit Rabbit's",
+      "has_synced": false,
+      "path": "select/pl_01_Daydream_cafe_Petit_Rabbit's.txt"
+    }
+  ]
+}
